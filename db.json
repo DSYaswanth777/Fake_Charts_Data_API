@@ -12,8 +12,8 @@
     }
   ],
   "pieChart": {
-    "series": [44, 55, 13, 43, 22],
-    "labels": ["Apple", "Mango", "Orange", "Banana", "Grapes"],
-    "colors": ["#ff8080", "#ccff99", "#ffcc99", "#99ccff", "#ff99cc"]
+    "series": [55, 31, 14],
+    "labels": ["Basic Tees", "Custom Short Pants", "Super Hoodies"],
+    "colors": ["#98D89E", "#EE8484", "#F6DC7D"]
   }
 }
