@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
     "json-server": "^0.17.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "fake_charts_data",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSYaswanth777/Fake_Charts_Data_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSYaswanth777/Fake_Charts_Data_API/issues"
+  },
+  "homepage": "https://github.com/DSYaswanth777/Fake_Charts_Data_API#readme",
+  "description": ""
 }
