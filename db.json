@@ -1,0 +1,19 @@
+{
+  "activities": [
+    {
+      "name": "Guest",
+      "data": [200, 390, 200, 305, 220, 460],
+      "color": "#ff8080"
+    },
+    {
+      "name": "User",
+      "data": [100, 410, 150, 440, 180, 260],
+      "color": "#ccff99"
+    }
+  ],
+  "pieChart": {
+    "series": [44, 55, 13, 43, 22],
+    "labels": ["Apple", "Mango", "Orange", "Banana", "Grapes"],
+    "colors": ["#ff8080", "#ccff99", "#ffcc99", "#99ccff", "#ff99cc"]
+  }
+}
